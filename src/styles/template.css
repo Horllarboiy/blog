@@ -1,0 +1,29 @@
+.trending {
+    width: 75%;
+    margin: 5rem auto;
+}
+
+.blog-title {
+    font-size: 2.3rem;
+    margin: 2rem 0;
+    font-weight: 700;
+    width: 97%;
+}
+
+.avatar {
+    border-radius: 50%;
+    height: 4rem;
+    width: 4rem;
+    margin-right: 2rem;
+}
+
+.coverImg {
+    margin-bottom: 2rem;
+    
+}
+
+@media screen and (max-width: 760px) {
+    .trending {
+        width: 95%;
+    }
+}
